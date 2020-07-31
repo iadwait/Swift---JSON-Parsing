@@ -1,0 +1,12 @@
+{
+ "first_name": "Adwait",
+ "last_name": "Barkale",
+ "age": 22,
+ "is_male": true,
+ "country": "India",
+ "subjects":[
+    "OOP",
+    "Computer Security",
+    "Machine Learning"
+]
+}
